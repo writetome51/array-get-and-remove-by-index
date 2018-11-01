@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/array-get-and-remove-by-index.git"
+  },
+
   "keywords": [
     "array",
     "manipulation",
@@ -14,6 +19,10 @@
   ],
   "author": "Steve Thompson",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writetome51/array-get-and-remove-by-index/issues"
+  },
+  "homepage": "https://github.com/writetome51/array-get-and-remove-by-index#readme",
   "devDependencies": {},
   "dependencies": {
     "@writetome51/array-get-and-remove-adjacent-at": "latest"
