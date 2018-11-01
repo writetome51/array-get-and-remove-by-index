@@ -1,7 +1,7 @@
 {
-  "name": "@writetome51/array-get-and-remove-item",
-  "version": "1.0.1",
-  "description": "Function removes the requested item from the array and returns it",
+  "name": "@writetome51/array-get-and-remove-by-index",
+  "version": "1.0.0",
+  "description": "Removes and returns item from array, accessed by its index",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

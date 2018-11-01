@@ -4,6 +4,6 @@ import { getAndRemoveAdjacentAt }
 
 // index can be negative or positive.
 
-export function getAndRemoveItem(index, array): any {
+export function getAndRemoveByIndex(index, array): any {
 	return getAndRemoveAdjacentAt(index, 1, array)[0];
 }

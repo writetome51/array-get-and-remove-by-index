@@ -1,3 +1,3 @@
-var getAndRemoveItem = require('./lib/getAndRemoveItem');
+var getAndRemoveByIndex = require('./lib/getAndRemoveByIndex');
 
-module.exports = getAndRemoveItem;
+module.exports = getAndRemoveByIndex;
