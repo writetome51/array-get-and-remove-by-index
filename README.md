@@ -1,5 +1,11 @@
-This function removes a requested item from the array and returns it.
-You access the item by its index. The index can be positive or negative.
+To include in your project:
+
+import {getAndRemoveByIndex} from '@writetome51/array-get-and-remove-by-index';
+
+getAndRemoveByIndex(index, array): any
+
+This function removes a requested item (accessed by its index) from the array and returns it.
+The index can be positive or negative.
 
 Example:
 
@@ -9,7 +15,6 @@ let thirdItem = getAndRemoveByIndex(2, arr);
 
 thirdItem is now 3.
 
-You can also use a negative index:
 
 let secondToLastItem = getAndRemoveByIndex(-2, arr);
 
