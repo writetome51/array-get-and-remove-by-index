@@ -1,6 +1,6 @@
 {
   "name": "@writetome51/array-get-and-remove-by-index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Removes and returns item from array, accessed by its index",
   "main": "index.js",
   "scripts": {
