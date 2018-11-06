@@ -12,7 +12,9 @@ Example:
 let arr = [-2, 1, 3, 4, 5];
 
 let thirdItem = getAndRemoveByIndex(2, arr);  
-thirdItem is now 3.  arr is now [-2,1,4,5]
+thirdItem is now 3.  
+arr is now [-2,1,4,5]
 
 let secondToLastItem = getAndRemoveByIndex(-2, arr);  
-secondToLastItem is now 4.   arr is now [-2,1,5]
+secondToLastItem is now 4.   
+arr is now [-2,1,5]

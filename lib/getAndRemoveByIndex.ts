@@ -1,5 +1,4 @@
-import { getAndRemoveAdjacentAt }
-	from '@writetome51/array-get-and-remove-adjacent-at';
+import { getAndRemoveAdjacentAt } from '@writetome51/array-get-and-remove-adjacent-at';
 
 
 // index can be negative or positive.
