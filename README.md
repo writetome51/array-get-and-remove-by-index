@@ -23,5 +23,9 @@ arr is now [-2,1,3,5]
 
 ## Loading
 ```
+// if using Typescript:
 import {getAndRemoveByIndex} from '@writetome51/array-get-and-remove-by-index';
+// if using ES5 Javascript:
+var getAndRemoveByIndex = 
+    require('@writetome51/array-get-and-remove-by-index').getAndRemoveByIndex;
 ```
