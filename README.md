@@ -1,4 +1,4 @@
-# getAndRemoveByIndex(index, array): any
+# getAndRemoveByIndex\<T\>(<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;index: number,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;array: T[]<br>): T
 
 Removes and returns 1 item (accessed by `index`) from `array`.  
 The `index` can be negative or positive.

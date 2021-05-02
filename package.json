@@ -1,10 +1,10 @@
 {
   "name": "@writetome51/array-get-and-remove-by-index",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Removes and returns item from array, accessed by its index",
   "type": "module",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "build": "tsc"
   },
@@ -16,6 +16,7 @@
     "array",
     "manipulation",
     "remove",
+    "return",
     "data"
   ],
   "author": "Steve Thompson",
@@ -26,6 +27,6 @@
   "homepage": "https://github.com/writetome51/array-get-and-remove-by-index#readme",
   "devDependencies": {},
   "dependencies": {
-    "@writetome51/array-get-and-remove-adjacent-at": "^2.0.0"
+    "@writetome51/array-get-and-remove-adjacent-at": ">=2.0.0"
   }
 }
